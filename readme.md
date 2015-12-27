@@ -6,3 +6,5 @@
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
 - [Hacker Rank](https://www.hackerrank.com)
 - [Mozilla's Javascript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [W3Schools.com](http://www.w3schools.com/js/)
+- [Tutorials Point](http://www.tutorialspoint.com/javascript/)
