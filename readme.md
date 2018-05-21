@@ -9,3 +9,4 @@
 - [W3Schools.com](http://www.w3schools.com/js/)
 - [Tutorials Point](http://www.tutorialspoint.com/javascript/)
 - [Free Code Camp](http://www.freecodecamp.com)
+- [Programming Community Curated Resources for learning Javascript](https://hackr.io/tutorials/learn-javascript)
